@@ -1,0 +1,16 @@
+
+main view
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-10 at 18 33 30" src="https://github.com/user-attachments/assets/eb909a17-de90-4afa-ba01-5d5f7b96d051" />
+
+bottom GPA
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-10 at 18 33 42" src="https://github.com/user-attachments/assets/8bdd3b9d-e14a-49eb-acfb-383a60d6f996" />
+
+add view
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-10 at 18 34 32" src="https://github.com/user-attachments/assets/2be979a8-db12-430d-b825-5f4702584db5" />
+
+edit view
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-10 at 18 35 06" src="https://github.com/user-attachments/assets/54bf6844-0428-4477-8481-fe69fc3fe096" />
+
+remove feature 
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-10-10 at 18 35 26" src="https://github.com/user-attachments/assets/38357f5f-96af-40f5-8277-adee291f61be" />
